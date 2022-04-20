@@ -1,1 +1,1 @@
-{"base": "69b0ff9", "parent": "rpm/rolling/cudnn_cmake_module", "previous": "b63f77f", "trim": "", "trimbase": ""}
+{"base": "131c36f", "parent": "rpm/humble/cudnn_cmake_module", "previous": "3ba3bc2", "trim": "", "trimbase": ""}
