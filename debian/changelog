@@ -1,0 +1,9 @@
+ros-rolling-cudnn-cmake-module (0.0.1-5noble) noble; urgency=high
+
+  * ci: add build and test action
+  * initial commit
+  * Contributors: wep21
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu@tier4.jp>  Wed, 19 Jan 2022 00:00:00 -0000
+
+
