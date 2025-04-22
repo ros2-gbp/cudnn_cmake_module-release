@@ -1,1 +1,1 @@
-{"base": "8256d48", "parent": "debian/rolling/cudnn_cmake_module", "previous": "c6af25f", "trim": "", "trimbase": ""}
+{"base": "d9bd72092a81", "parent": "debian/kilted/cudnn_cmake_module", "previous": "05cdb3006ee0", "trim": "", "trimbase": ""}
